@@ -1,0 +1,28 @@
+body {
+  background-color: #16a085;
+}
+
+svg {
+  width: 300px;
+  height 300px;
+}
+
+h1 {
+  font-size: 55px;
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+h2 {
+ font-size: 45px;
+ color: white;
+}
+
+div {
+  width: 100%;
+  postion: fixed;
+  margin-top: 8%;
+}
