@@ -19,4 +19,5 @@
 
 <h1 align="center">My Projects</h1>
 
-   **Day 1:** [Tribute to the Tribute to the Greatest Song in the World](https://codepen.io/Karrotts/full/xRRdNB)
+   **Day 1:** [Tribute to the Tribute to the Greatest Song in the World](https://codepen.io/Karrotts/full/xRRdNB)<br>
+   **Day 2:** [Magic 8 Ball](https://codepen.io/Karrotts/full/BQpyBr/)
