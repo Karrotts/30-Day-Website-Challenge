@@ -1,0 +1,135 @@
+body{
+  background-color: #F5F5F5;
+  margin: 0px;
+}
+
+header {
+  width: 100%;
+  height: 500px;
+  background-color:white;
+  box-shadow: 0px 10px 20px rgba(0,0,0,.9)
+}
+
+section {
+  width: 80%;
+  max-width: 800px;
+  background-color: white;
+  height: 100%;
+  padding: 25px 10px 25px 10px;
+  margin: 35px;
+}
+
+h1 {
+  margin: 0px;
+}
+
+h2{
+  margin: 0px;
+}
+
+.title {
+  font-size: 35px;
+}
+
+.sub-title {
+  font-size: 25px;
+  color: grey;
+}
+
+.Cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.Quicksand {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.left-img{
+  postition: fixed;
+  float: left;
+  height: 100%;
+  width: 500px;
+  background-image: url(https://b6blzq.bn1302.livefilestore.com/y3m-CtUOclw95XGgs6Y9Rj3kbIrAFqXbCcq2DKeIJCH-OzSu5u_7436IdVw8LJwuaQIOoSERmezjL68f0rJHV3w0Pg5u6fn52lGhg_oAd_4hwesEgzU0ndJAZmkdh5-oJtsSP-_eFfC4lyXA9ZpKE11jzz9gu_lOfRcIwQJ6fmvn8A?width=500&height=500&cropmode=none)
+}
+
+.right-img{
+  postition: fixed;
+  float: right;
+  height: 100%;
+  width: 500px;
+  background-image: url(https://b6dk8a.bn1302.livefilestore.com/y3mBEx4AQpDqIL94LP-CbF4DGWTllJW20P-irfKY9YYMrx_gd0mNLHwuI68N2-mWF22fTxyHZR0yl6lrfEU0cu-x0O3L0lEW750jLInWb8manrtS048035jH1AxNmuz1ivGipgN13GDu9e1NKj2KR30YV_EW_POHLHKOdDi6qPFeNI?width=500&height=500&cropmode=none)
+
+}
+
+.title-text {
+  width: 60%;
+  postion:fixed;
+  padding-top: 150px;
+}
+
+.section-container{
+  width: 75%;
+}
+
+#quote {
+  color: grey;
+}
+
+.lyrics-title {
+  text-align: left;
+  margin-top: 20px;
+  padding-left: 5%;
+  font-size: 35px;
+}
+
+.lyrics-text {
+  text-align: left;
+  margin-top: 20px;
+  padding-left: 5%;
+  font-size: 18px;
+}
+
+.about-title {
+  text-align: left;
+  margin-top: 20px;
+  padding-left: 5%;
+  font-size: 35px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.about-text{
+  text-align: left;
+  margin-top: 20px;
+  padding-left: 5%;
+  font-size: 18px;
+}
+
+button {
+    background-color: #e74c3c;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 1200px) {
+  .left-img {
+    display:none
+  }
+
+  .right-img {
+    display:none
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+  .title-text{
+    padding-top: 75px
+  }
+}
