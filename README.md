@@ -22,7 +22,7 @@
    **Day 1:** [Tribute to the Tribute to the Greatest Song in the World](https://codepen.io/Karrotts/full/xRRdNB)<br>
    **Day 2:** [Magic 8 Ball](https://codepen.io/Karrotts/full/BQpyBr/)<br>
    **Day 3:** [Simple Expandable Text Adventure Game](http://codepen.io/Karrotts/full/VmPxBM/)<br>
-   **Day 4:** [Rock Paper Scissors Game](http://codepen.io/Karrotts/full/eBveoQ/)
-   **Day 5:** [Random Quote Generator](http://codepen.io/Karrotts/full/JbNGxX/)
-   **Day 6:** [Weather Application](http://codepen.io/Karrotts/full/VmbKxm/)
+   **Day 4:** [Rock Paper Scissors Game](http://codepen.io/Karrotts/full/eBveoQ/)<br>
+   **Day 5:** [Random Quote Generator](http://codepen.io/Karrotts/full/JbNGxX/)<br>
+   **Day 6:** [Weather Application](http://codepen.io/Karrotts/full/VmbKxm/)<br>
    
