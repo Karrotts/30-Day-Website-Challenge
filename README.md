@@ -23,4 +23,6 @@
    **Day 2:** [Magic 8 Ball](https://codepen.io/Karrotts/full/BQpyBr/)<br>
    **Day 3:** [Simple Expandable Text Adventure Game](http://codepen.io/Karrotts/full/VmPxBM/)<br>
    **Day 4:** [Rock Paper Scissors Game](http://codepen.io/Karrotts/full/eBveoQ/)
+   **Day 5:** [Random Quote Generator](http://codepen.io/Karrotts/full/JbNGxX/)
+   **Day 6:** [Weather Application](http://codepen.io/Karrotts/full/VmbKxm/)
    
