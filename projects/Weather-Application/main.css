@@ -1,0 +1,34 @@
+body {
+ background-color: #22313F;
+}
+
+.container {
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  margin-left: -150px;
+}
+
+.content {
+  color: white;
+  width: 300px;
+}
+
+a {
+  text-decoration: none;
+  color: #52B3D9;
+}
+
+.temp {
+  font-size: 45px;
+  margin: 0px;
+}
+
+h2 {
+  margin: 0px;
+}
+
+h1 {
+  font-size: 35px;
+  margin-bottom: 0px;
+}
