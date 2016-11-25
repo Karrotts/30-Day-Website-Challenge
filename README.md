@@ -25,4 +25,4 @@
    **Day 4:** [Rock Paper Scissors Game](http://codepen.io/Karrotts/full/eBveoQ/)<br>
    **Day 5:** [Random Quote Generator](http://codepen.io/Karrotts/full/JbNGxX/)<br>
    **Day 6:** [Weather Application](http://codepen.io/Karrotts/full/VmbKxm/)<br>
-   
+   **Day 7:** [Wikipedia Viewer](http://codepen.io/Karrotts/full/BQReWO/)<br>
