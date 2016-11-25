@@ -26,4 +26,4 @@
    **Day 5:** [Random Quote Generator](http://codepen.io/Karrotts/full/JbNGxX/)<br>
    **Day 6:** [Weather Application](http://codepen.io/Karrotts/full/VmbKxm/)<br>
    **Day 7:** [Wikipedia Viewer](http://codepen.io/Karrotts/full/BQReWO/)<br>
-   **Day 8:** [Responsive Design for Portfolio](karrotts.github.io)<br> 
+   **Day 8:** [Responsive Design for Portfolio](https://karrotts.github.io)<br> 
