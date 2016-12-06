@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin" rel="stylesheet">
+    <link href="./main.css" rel="stylesheet"></link>
+  </head>
+  <body onload="draw();">
+    <center>
+      <div class="container">
+        <div class="content">
+          <h1>Trigonometry is Fun!</h1>
+           <canvas id="canvas" width="300" height="300"></canvas><br>
+           <p>Place an "x" on the side or angle you wish to find. Fill in two other values.</p>
+           <input type="text" placeholder="A" id="A"></input>
+           <input type="text" placeholder="B" id="B"></input>
+           <input type="text" placeholder="C" id="C"></input>
+           <input type="text" placeholder="D" id="D"></input>
+           <input type="text" placeholder="E" id="E"></input><br>
+           <button onclick="calc()">Calculate</button>
+        </div>
+      </div>
+    </center>
+  </body>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="main.js"></script>
+</html>
