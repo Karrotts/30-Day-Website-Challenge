@@ -32,3 +32,4 @@
    **Day 11:** [Refactor Day!](http://codepen.io/Karrotts)<br>
    **Day 12:** Pokemon Greek Name Generator<br>
    **Day 13:** [Trigonometry](http://codepen.io/Karrotts/full/MbGJVG/)<br>
+   **HAPPY HOLIDAYS! - WILL CONTINUE FIRST OF THE YEAR!**<br>
