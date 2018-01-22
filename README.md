@@ -1,20 +1,6 @@
-# 30-Day-Website-Challenge (Cancelled)
+# One Day Websites
 
-<h1 align="center">The 30 Day Web Development Challenge Rules</h1>
-
-- Create at least a one page website
-- Make at least one custome graphic for the website
-- At least one feature that uses JavaScript
-- Frameworks are allowed, but not reccomended
-
-
-<h1 align="center">Goals</h1>
-
-- To spark creativity
-- Learn time management
-- Improve skills in HTML, CSS, Javacript
-
-<h1 align="center">My Projects</h1>
+Collection of one day websites I made
 
    **Day 1:** [Tribute to the Tribute to the Greatest Song in the World](https://codepen.io/Karrotts/full/xRRdNB)<br>
    **Day 2:** [Magic 8 Ball](https://codepen.io/Karrotts/full/BQpyBr/)<br>
@@ -26,7 +12,4 @@
    **Day 8:** [Responsive Design for Portfolio](https://karrotts.github.io)<br>
    **Day 9:** [FCC Twitch API](http://codepen.io/Karrotts/full/KNvXmr/)<br> 
    **Day 10:** [Twitch Channel Viewer](http://codepen.io/Karrotts/full/PbJOqe/)<br>
-   **Day 11:** [Refactor Day!](http://codepen.io/Karrotts)<br>
-   **Day 12:** Pokemon Greek Name Generator<br>
-   **Day 13:** [Trigonometry](http://codepen.io/Karrotts/full/MbGJVG/)<br>
-   **HAPPY HOLIDAYS! - WILL CONTINUE FIRST OF THE YEAR!**<br>
+   **Day 11:** [Trigonometry](http://codepen.io/Karrotts/full/MbGJVG/)<br>
