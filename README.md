@@ -1,6 +1,6 @@
-# One Day Websites
+# Practice Web Applications
 
-Collection of one day websites I made
+Collection of one day websites I made for practice, some aren't complete garbage fire.
 
    **Day 1:** [Tribute to the Tribute to the Greatest Song in the World](https://codepen.io/Karrotts/full/xRRdNB)<br>
    **Day 2:** [Magic 8 Ball](https://codepen.io/Karrotts/full/BQpyBr/)<br>
